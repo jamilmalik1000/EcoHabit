@@ -1,0 +1,7 @@
+{
+  "name": "EcoHabit",
+  "description": "A sustainable living tracker and community platform powered by AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
